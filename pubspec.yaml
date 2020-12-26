@@ -29,6 +29,34 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
 
+  # to allow changing theme dynamically
+  dynamic_theme: 1.0.1
+
+  # to show SVG files
+  flutter_svg: 0.19.1
+
+  # to show OTP input field
+  pinput: 0.2.6
+
+  # to use firebase for sign in/sign up process
+  firebase_core: 0.5.3
+  firebase_auth: 0.18.4+1
+
+  # to allow sign in/sign up using google
+  google_sign_in: 4.5.6
+
+  # to allow sign in/sign up using facebook
+  flutter_facebook_auth: 1.0.2+2
+
+  # to allow sign in/sign up using Linked in
+  flutter_linkedin: 1.0.2
+
+  # to show toast messages to user
+  flutter_toast_plugin: 0.0.1
+
+  # to show progress bar easily
+  flutter_easyloading: 2.2.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
